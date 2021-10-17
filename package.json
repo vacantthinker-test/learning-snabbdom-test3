@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "description": "",
+  "name": "learning-snabbdom-test3",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "yarn-update": "yarn install"
+  },
+  "devDependencies": {
+    "webpack": "latest",
+    "webpack-cli": "latest",
+    "webpack-dev-server": "latest"
+  }
+}
